@@ -2,15 +2,20 @@ html {
     box-sizing: border-box;
     line-height: 1.5;
     font-family: "Bevan", sans-serif;
-    background-color: #fff;
-    l
+
   }
 
   *, *::before, *::after {
     box-sizing: inherit;
   }
 
-h1 {
+header {
   text-align: center;
+  font-size: 3rem;
+  background-color: #79756f;
+
+
+
+
 
 }
