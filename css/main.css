@@ -10,12 +10,20 @@ html {
   }
 
 header {
-  text-align: center;
   font-size: 3rem;
   background-color: #79756f;
+  margin-top: 0.3em;
+}
 
+h1 {
+  text-align: center;
+  color: #fff;
+  font-family: bevan, sans-serif;
 
+}
 
+body {
+  background-color: #dbd6cf;
 
 
 }
